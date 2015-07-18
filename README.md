@@ -1,6 +1,6 @@
 # helloworld
 
-hi, anyone view this file including the webspot of nsa
+hi, anyone view this file including the webot of nsa
 
 this is just a test file for branch in github
 
